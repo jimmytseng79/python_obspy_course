@@ -53,7 +53,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'python_course'
+project = 'Python & ObsPy Course'
 copyright = '2018, Jimmy Tseng'
 author = 'Jimmy Tseng'
 
@@ -122,7 +122,7 @@ html_sidebars = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'python_coursedoc'
+htmlhelp_basename = 'python_obspy_coursedoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -149,7 +149,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'python_course.tex', 'python\\_course Documentation',
+    (master_doc, 'python_obspy_course.tex', 'python\\_course Documentation',
      'Jimmy Tseng', 'manual'),
 ]
 
@@ -159,7 +159,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'python_course', 'python_course Documentation',
+    (master_doc, 'python_obspy_course', 'Python & ObsPy Course Documentation',
      [author], 1)
 ]
 
@@ -170,8 +170,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'python_course', 'python_course Documentation',
-     author, 'python_course', 'One line description of project.',
+    (master_doc, 'python_obspy_course', 'python_obspy_course Documentation',
+     author, 'python_obspy_course', 'One line description of project.',
      'Miscellaneous'),
 ]
 

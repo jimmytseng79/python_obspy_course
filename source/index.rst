@@ -1,20 +1,22 @@
-.. python_course documentation master file, created by
+.. Python & ObsPy Course documentation master file, created by
    sphinx-quickstart on Fri May  4 14:23:36 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to python_course
+Python & ObsPy Course
 =========================================
 
+This course ...
+
+References
+=========================================
+blablabla
+
+Contents
+=========================================
 .. toctree::
+   :numbered:
    :maxdepth: 2
-   :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   python
+   obspy
